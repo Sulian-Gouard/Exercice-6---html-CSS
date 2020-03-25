@@ -1,6 +1,7 @@
-* {
-    box-sizing: border-box;
-  }
+html,body {
+
+    height:100%
+}
 
 
 .green
@@ -8,7 +9,7 @@
     float:left;
     background-color: green;
     width:80%;
-    padding:20px;
+    height:10%;
 
 }
 
@@ -17,13 +18,13 @@
     float:left;
     background-color: blue;
     width:20%;
-    padding:20px;
+    height:10%;
 }
 .red
 {
     background-color: red;
     width:34%;
-    padding:80px;
+    height:20%;
     float:left;
 
 }
@@ -31,7 +32,7 @@
 {
     background-color:pink;
     width:33%;
-    padding:40px;
+    height:10%;
     float:left;
 }
 .grey
@@ -39,28 +40,28 @@
     float: left;
     background-color: grey;
     width:33%;
-    padding:40px;
+    height:10%;
 
 }
 .orange2
 {
     background-color: orange;
     width:22%;
-    height:80px;
+    height:10%;
     float:left;
 }
-.vert2
+.green2
 {
     background-color: #16a085;
     width:22%;
-    height:80px;
+    height:10%;
     float:left;
 }
 .orange3
 {
     background-color: orangered;
     width:22%;
-    height:80px;
+    height:10%;
     float:left;
 }
 .black
